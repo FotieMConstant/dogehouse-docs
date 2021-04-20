@@ -2,7 +2,7 @@
 description: Welcome to the dogehouse documentation
 ---
 
-# Home
+# DogeHouse
 
 ![ Taking voice conversations to the moon &#x1F680;](https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg)
 
