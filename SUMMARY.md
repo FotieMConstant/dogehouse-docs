@@ -30,5 +30,6 @@
 
 ## INTERNAL
 
+* [LICENSE](internal/license.md)
 * [Scope](internal/scope.md)
 
