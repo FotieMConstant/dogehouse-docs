@@ -1,12 +1,32 @@
 # FAQs
 
-## Can I become who I want to be?
+## Why did you choose Elixir?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Its fun to program in. The error messages are awful and there's not static typing, but other than that it's great.
 
-## Have you had a chance to answer the previous question?
+## How will DogeHouse make money?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+* DogeNitro
+* DogeSubscriptions
+* DogeAds
 
+## Will open source contributors get paid?
 
+After DogeHouse adds monetization and it makes enough to pay server costs, there will be bounties.
+
+## How will you market this?
+
+Once the core product is solid, I will be doing events with the community and other influencers.
+
+## Are you working on this full-time?
+
+Yes
+
+## Discord Stages?
+
+[https://www.youtube.com/watch?v=FmAL5qvJkaI](https://www.youtube.com/watch?v=FmAL5qvJkaI)
+
+## Are you ever doing video?
+
+Not for a long time, maybe never.
 
