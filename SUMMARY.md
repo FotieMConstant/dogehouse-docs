@@ -12,8 +12,7 @@
 
 ## CONTRIBUTING
 
-* [Welcome](contributing/welcome/README.md)
-  * [Contribution Guidelines](contributing/welcome/contribution-guidelines.md)
+* [Contribution Guidelines](contributing/contribution-guidelines.md)
 * [Design Guidelines](contributing/design.md)
 * [Documentation](contributing/documentation/README.md)
   * [Contribution Guidelines](contributing/documentation/contribution-guidelines.md)
