@@ -1,3 +1,7 @@
+---
+description: Guidelines for new contributors to dogehouse
+---
+
 # Contribution Guidelines
 
 ## Priority List Below - READ BEFORE CONTRIBUTING
