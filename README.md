@@ -1,5 +1,5 @@
 ---
-description: Welcome to the DogeHouse Doc
+description: Welcome to the dogehouse documentation
 ---
 
 # Home
