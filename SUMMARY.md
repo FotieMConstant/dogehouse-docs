@@ -28,8 +28,8 @@
   * [kibbeh \(Next.js frontend\)](contributing/codebase/kibbeh-next.js-frontend.md)
   * [kebab \(API Client\)](contributing/codebase/kebab-api-client.md)
 
-## INTERNAL
+## MORE
 
-* [LICENSE](internal/license.md)
-* [Scope](internal/scope.md)
+* [LICENSE](more/license.md)
+* [Scope](more/scope.md)
 
