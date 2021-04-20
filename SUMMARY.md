@@ -31,5 +31,4 @@
 ## MORE
 
 * [LICENSE](more/license.md)
-* [Scope](more/scope.md)
 
