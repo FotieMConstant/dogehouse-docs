@@ -23,7 +23,7 @@
   * [feta \(Shared utils web/app\)](contributing/codebase/feta-shared-utils-web-app.md)
   * [kibbeh \(Next.js frontend\)](contributing/codebase/kibbeh-next.js-frontend.md)
   * [kebab \(API Client\)](contributing/codebase/kebab-api-client.md)
-  * [Design](contributing/codebase/design.md)
+  * [Design Guidelines](contributing/codebase/design.md)
   * [Documentation](contributing/codebase/documentation/README.md)
     * [Contribution Guidelines](contributing/codebase/documentation/contribution-guidelines.md)
     * [Useful Resources](contributing/codebase/documentation/useful-resources.md)
