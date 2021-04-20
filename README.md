@@ -1,10 +1,14 @@
+---
+description: Welcome to the DogeHouse Doc
+---
+
 # Home
 
 ![ Taking voice conversations to the moon &#x1F680;](https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg)
 
-                          [![discord - users online](https://img.shields.io/discord/810571477316403233?style=for-the-badge)](https://discord.gg/wCbKBZF9cV) [![dogehouse - users online](https://img.shields.io/endpoint?color=FD4D4D&style=for-the-badge&url=https%3A%2F%2Fapi.dogegarden.net%2Fv1%2Fshields)](https://dogehouse.tv)
+                             [![discord - users online](https://img.shields.io/discord/810571477316403233?style=for-the-badge)](https://discord.gg/wCbKBZF9cV) [![dogehouse - users online](https://img.shields.io/endpoint?color=FD4D4D&style=for-the-badge&url=https%3A%2F%2Fapi.dogegarden.net%2Fv1%2Fshields)](https://dogehouse.tv)
 
-###                          [Contribute](https://github.com/benawad/dogehouse/blob/staging/CONTRIBUTING.md) · [Community](https://discord.gg/82HzQCJCDg) · [Documentation](https://github.com/FotieMConstant/dogehouse-docs/tree/61448218e2cf3967eb064bb8dcd372ec9da02f68/docs/README.MD)
+###                              [Contribute](https://github.com/benawad/dogehouse/blob/staging/CONTRIBUTING.md) · [Community](https://discord.gg/82HzQCJCDg) · [Documentation](https://github.com/FotieMConstant/dogehouse-docs/tree/61448218e2cf3967eb064bb8dcd372ec9da02f68/docs/README.MD)
 
 ## Structure
 
