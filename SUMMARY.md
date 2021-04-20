@@ -8,7 +8,7 @@
 * [Community Code of Conduct](about/community-code-of-conduct.md)
 * [Guidelines](about/guidelines.md)
 * [FAQs](about/faqs.md)
-* [Team](about/team.md)
+* [Contributors](about/team.md)
 
 ## CONTRIBUTING
 
