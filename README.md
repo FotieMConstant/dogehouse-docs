@@ -1,3 +1,4 @@
+<<<<<<< master
 # Introduction
 
  
@@ -82,4 +83,9 @@ Check [here](https://github.com/benawad/dogehouse/blob/staging/CONTRIBUTING.md#q
 ## Attribution
 
 For emojis, we use [Twemoji](https://twemoji.twitter.com/)
+=======
+# dogehouse-docs
+
+Repository for the dogehouse doc 🚀
+>>>>>>> main
 
