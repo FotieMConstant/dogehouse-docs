@@ -98,7 +98,7 @@ Please read [CODE\_OF\_CONDUCT.md](https://github.com/benawad/dogehouse/blob/sta
 
 ## How to run locally
 
-Check [here](https://github.com/benawad/dogehouse/blob/staging/CONTRIBUTING.md#quickstart-local-frontend-development) on how to run locally&lt;/a&gt;
+Check [here](https://github.com/benawad/dogehouse/blob/staging/CONTRIBUTING.md#quickstart-local-frontend-development) on how to run locally
 
 ## Why did you make this?
 
