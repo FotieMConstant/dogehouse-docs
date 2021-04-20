@@ -1,2 +1,2 @@
-# Team
+# Contributors
 
