@@ -5,7 +5,7 @@
 ## ABOUT
 
 * [Introduction](about/introduction.md)
-* [Community Code of Conduct](about/community-code-of-conduct.md)
+* [Community code of conduct](about/community-code-of-conduct.md)
 * [Guidelines](about/guidelines.md)
 * [FAQs](about/faqs.md)
 * [Contributors](about/team.md)
