@@ -10,15 +10,14 @@ This document aims to specify and define the rules and patterns to follow when i
 
 ### Table of contents
 
-* [Design Guidelines]()
-  * [Table of contents]()
-  * [Color scheme]()
-    * [Gray shades]()
-  * [Typography]()
-    * [Web Embed]()
-    * [Desktop]()
-  * [Spacing]()
-  * [Doubts and questions]()
+* [Design Guidelines](#design-guidelines)
+  * [Table of contents](#table-of-contents)
+  * [Color scheme](#color-scheme)
+    * [Gray shades](#gray-shades)
+  * [Typography](#typography)
+    * [Web Embed](#web-embed)
+  * [Spacing](#spacing)
+  * [Doubts and questions](#doubts-and-questions)
 
 ### Color scheme
 
@@ -30,9 +29,9 @@ This document aims to specify and define the rules and patterns to follow when i
 * **Gray 100**: `#DEE3EA`
 * **Gray 200**: `#B2BDCD`
 * **Gray 300**: `#5D7290`
-* ~~**Gray 400**~~: `#4F617A`
-* ~~**Gray 500**~~: `#404F64`
-* ~~**Gray 600**~~: `#323D4D`
+* **Gray 400**: `#4F617A`
+* **Gray 500**: `#404F64`
+* **Gray 600**: `#323D4D`
 * **Gray 700**: `#242C37`
 * **Gray 800**: `#151A21`
 * **Gray 900**: `#0B0E11`
@@ -94,5 +93,5 @@ This is an approximation. On some circumstances other values will be used to ens
 
 ### Doubts and questions
 
-If you have any doubts or concerns when developing components or other UI elements, you can open an issue and tag @ajmnz or leave a message in `#design` or `#kofta` in [our Discord](https://discord.gg/82HzQCJCDg).
+If you have any doubts or concerns when developing components or other UI elements, you can open an issue and tag @ajmnz or leave a message in `#design` or `#kibbeh` in [our Discord](https://discord.gg/82HzQCJCDg).
 
