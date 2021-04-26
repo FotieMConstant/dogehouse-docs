@@ -10,14 +10,14 @@ This document aims to specify and define the rules and patterns to follow when i
 
 ### Table of contents
 
-* [Design Guidelines](#design-guidelines)
-  * [Table of contents](#table-of-contents)
-  * [Color scheme](#color-scheme)
-    * [Gray shades](#gray-shades)
-  * [Typography](#typography)
-    * [Web Embed](#web-embed)
-  * [Spacing](#spacing)
-  * [Doubts and questions](#doubts-and-questions)
+* [Design Guidelines](design.md#design-guidelines)
+  * [Table of contents](design.md#table-of-contents)
+  * [Color scheme](design.md#color-scheme)
+    * [Gray shades](design.md#gray-shades)
+  * [Typography](design.md#typography)
+    * [Web Embed](design.md#web-embed)
+  * [Spacing](design.md#spacing)
+  * [Doubts and questions](design.md#doubts-and-questions)
 
 ### Color scheme
 
@@ -81,7 +81,7 @@ font-weight: 700;
 | **H1** | 56px | 90 | 700 |
 | **H2** | 40px | 64 | 700 |
 | **H3** | 28px | 45 | 700 |
-| **H4**  | 20px | 32 | 700 |
+| **H4** | 20px | 32 | 700 |
 | **P** | 14px | 22 | 500 - 700 |
 | **P \(small\)** | 12px | 22 | 500 - 700 |
 
