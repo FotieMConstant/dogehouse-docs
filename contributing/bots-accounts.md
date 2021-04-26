@@ -2,7 +2,7 @@
 description: Build dogehouse bots
 ---
 
-# Bots Accounts
+# Bot Accounts
 
 1. Auth with your regular account
 2. Send ws message to create bot account with the username you want \(you can create up to 100\):

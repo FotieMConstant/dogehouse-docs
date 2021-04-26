@@ -27,7 +27,7 @@
   * [feta \(Shared utils web/app\)](contributing/codebase/feta-shared-utils-web-app.md)
   * [kibbeh \(Next.js frontend\)](contributing/codebase/kibbeh-next.js-frontend.md)
   * [kebab \(API Client\)](contributing/codebase/kebab-api-client.md)
-* [Bots Accounts](contributing/bots-accounts.md)
+* [Bot Accounts](contributing/bots-accounts.md)
 
 ## MORE
 
