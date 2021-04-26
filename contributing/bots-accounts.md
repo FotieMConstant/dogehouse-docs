@@ -1,3 +1,7 @@
+---
+description: Build dogehouse bots
+---
+
 # Bots Accounts
 
 1. Auth with your regular account
