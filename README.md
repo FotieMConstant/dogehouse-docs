@@ -54,7 +54,7 @@ There are different ways to get the Electron desktop app:
 
   * Add the repo with `echo "deb http://ppa.dogehouse.tv/ ./" | sudo tee -a /etc/apt/sources.list > /dev/null`
   * Add Ben Awad's GPG key with `$(command -v curl>>/dev/null && echo "curl -o-" || echo "wget -q0-") http://ppa.dogehouse.tv/KEY.gpg | sudo apt-key add -`.
-  * Finally, update your local repoistory list and install DogeHouse
+  * Finally, update your local repository list and install DogeHouse
 
     with `sudo apt update && sudo apt install dogehouse`.
 
@@ -73,7 +73,7 @@ _**Notes:**_
 * If a warning message pops up on Windows, go to 'more info' and select 'Run Anyway'
 * Currently, the snap package's available channels are only `edge` as
 
-  contributions for Baklava are merged almost on daily basis. Tested
+  contributions for Baklava are merged almost on a daily basis. Tested
 
   versions that are stable will be promoted into `stable` in the future.
 
